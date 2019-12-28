@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Stack 15000" />
+		<Description value="Makes all items stack to 15000." />
+		<Author value="Winter Soldier ZA" />
+		<Version value="0.1" />
+</ModInfo>
+</xml>

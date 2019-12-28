@@ -1,0 +1,5 @@
+<configs>
+
+	<set xpath="/items/item/property[@name='Stacknumber']/@value">15000</set>
+
+</configs>

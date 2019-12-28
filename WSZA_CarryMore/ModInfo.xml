@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Carry More" />
+		<Description value="Carry more items without slowed down. This mod builds on another mod 'S420_SimpleUI-BiggerBackpack120-PlayerBuiltStorage', this just makes sure the extra space is usable without slowing you down." />
+		<Author value="Winter Soldier ZA" />
+		<Version value="0.1" />
+</ModInfo>
+</xml>
